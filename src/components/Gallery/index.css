@@ -1,0 +1,21 @@
+/* Write your code here. */
+
+.main-container {
+  padding: 5% 20% 5% 20%;
+}
+.image-list-container {
+  list-style: none;
+}
+
+.heading {
+  font-size: 26px;
+}
+.paragraph {
+  color: #64748b;
+}
+.thumbnail-list-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  list-style: none;
+}
